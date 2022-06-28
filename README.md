@@ -1,0 +1,2 @@
+# MaiaSubtitler
+Automatic subtitle generator.
